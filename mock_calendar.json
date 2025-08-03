@@ -1,0 +1,6 @@
+{
+  "2025-08-01": [
+    {"startTime": "09:00", "endTime": "11:00", "project": "Project A"},
+    {"startTime": "11:30", "endTime": "13:00", "project": "Project B"}
+  ]
+}
